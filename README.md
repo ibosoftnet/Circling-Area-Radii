@@ -16,5 +16,4 @@ Also spreadsheet contains theese pre-calculated tables in seperate pages:
 This tables exported as PDF and can be found on this repository.
 
 **See also:**
-https://egitim.ibosoft.net.tr
 https://egitim.ibosoft.net.tr/aletli-ucus/aletli-ucus-prosedurleri/visual-manoeuvring-circling/
