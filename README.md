@@ -4,7 +4,7 @@ Circling area radius calculations spreadsheet and pre-calculated tables based on
 This spreadsheet includes a calculation table according to:
 * External TAS (true Airspeed Calculations) at required conditions.
 * Gravitational acceleration which used in turn radius calculations is based on ICAO Doc 7488.
-* PANS-OPS criterias based on ICAO PANS-OPS Vol. II (7th Ed. Corr. 2)
+* PANS-OPS criterias based on ICAO Doc 8168 PANS-OPS Vol. II (7th Ed. Corr. 2)
 * MIPS criterias based on NATO AATCP-1 (June 2017)
 
 Also spreadsheet contains theese pre-calculated tables in seperate pages:
